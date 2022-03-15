@@ -1,6 +1,6 @@
 from matplotlib import pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-
+# hello
 
 # Dictonaries of hand positions
 # Each contains 21 keys (xyz for 5 fingers, palm and wrist) where the values are lists of coordinates
